@@ -1,5 +1,5 @@
 {
-  "name": "@kenchan0130/markdown-to-atlassian-wiki-markup",
+  "name": "@c4live/markdown-to-atlassian-wiki-markup",
   "version": "5.0.1",
   "description": "Convert markdown to atlassian wiki markup",
   "main": "dist/index.js",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenchan0130/markdown-to-atlassian-wiki-markup.git"
+    "url": "git+https://github.com/c4live/markdown-to-atlassian-wiki-markup.git"
   },
   "author": "Tadayuki Onishi <tt.tanishi100@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenchan0130/markdown-to-atlassian-wiki-markup/issues"
+    "url": "https://github.com/c4live/markdown-to-atlassian-wiki-markup/issues"
   },
-  "homepage": "https://github.com/kenchan0130/markdown-to-atlassian-wiki-markup#readme",
+  "homepage": "https://github.com/c4live/markdown-to-atlassian-wiki-markup#readme",
   "keywords": [
     "Atlassian",
     "Confluence",
